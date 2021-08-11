@@ -2,3 +2,5 @@ The rainbow
 
 purple
 pink
+red
+blue
